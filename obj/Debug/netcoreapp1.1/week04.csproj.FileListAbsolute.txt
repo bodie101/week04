@@ -1,0 +1,8 @@
+/Users/bodiekeys/Desktop/week04/bin/Debug/netcoreapp1.1/week04.deps.json
+/Users/bodiekeys/Desktop/week04/bin/Debug/netcoreapp1.1/week04.runtimeconfig.json
+/Users/bodiekeys/Desktop/week04/bin/Debug/netcoreapp1.1/week04.runtimeconfig.dev.json
+/Users/bodiekeys/Desktop/week04/bin/Debug/netcoreapp1.1/week04.dll
+/Users/bodiekeys/Desktop/week04/bin/Debug/netcoreapp1.1/week04.pdb
+/Users/bodiekeys/Desktop/week04/obj/Debug/netcoreapp1.1/week04.AssemblyInfo.cs
+/Users/bodiekeys/Desktop/week04/obj/Debug/netcoreapp1.1/week04.dll
+/Users/bodiekeys/Desktop/week04/obj/Debug/netcoreapp1.1/week04.pdb
